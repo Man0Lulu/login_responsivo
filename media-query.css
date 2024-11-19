@@ -23,18 +23,18 @@
     body{
         background-image: linear-gradient(to top, #49a09d, #5f2c82);
     }
-    
+
     section#login{
         width: 900px;
     }
     section#login > div#imagem{
-        float: left;
+        float: right;
         height: 600px;
         width: 250px;
     }
 
     section#login > div#formulario{
-        float: right;
+        float: left;
         width: 70%;
     }
 }
